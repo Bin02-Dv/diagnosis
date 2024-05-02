@@ -1,0 +1,14 @@
+body{
+    background:linear-gradient(0deg, rgba(28, 27, 27, 0.3), rgba(28, 27, 27, 0.3)), url(../img/logimg2.jpg) !important;
+    background-size: cover !important;
+    background-repeat: no-repeat !important;
+    background-position: center !important;
+}
+
+.heading1{
+    font-size: 3rem;
+    font-family: monospace;
+    font-weight: bold;
+    text-transform: uppercase;
+    color: green !important;
+}
